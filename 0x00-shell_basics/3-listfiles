@@ -1,4 +1,4 @@
+
 #!/bin/bash
-ls 3-listfiles
-ls ~ 3-listfiles
+l- 3-listfiles
 
